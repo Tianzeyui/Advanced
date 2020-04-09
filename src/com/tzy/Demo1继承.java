@@ -3,7 +3,6 @@ package com.tzy;
 public class Demo1继承 {
     public static void main(String[] args) {
         Child child = new Child("11", "11", "11");
-        System.out.println(1);
     }
 }
 
